@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="contLlamadas">Contenido llamadas</string>
+    <string name="contChats">Contenido chats</string>
+    <string name="contContactos">Contenido contactos</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_otro">Otro</string>
+</resources>
